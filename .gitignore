@@ -6,3 +6,10 @@
 LOCAL-INFO.md
 scripts/.cache/
 *.zip
+
+# Inbox — nur ablegen, nicht committen (Ziel siehe inbox/ZIEL.txt)
+inbox/*
+!inbox/.gitkeep
+!inbox/ZIEL.txt
+!inbox/SO-LEGST-DU-ES-AB.txt
+
